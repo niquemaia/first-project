@@ -1,2 +1,2 @@
-# first-project
+# firstproject-portfolio
 Creating a portfolio webpage
